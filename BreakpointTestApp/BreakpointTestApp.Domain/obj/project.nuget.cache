@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z9Pv0WknbMeJFSVuigLG0uFr5M839OaFTfytIzmuESnvS+aUJF3y/EwOreMqL4aS0gEZiBAVye8Ea5F1SXH4eg==",
+  "dgSpecHash": "P0KzNZHH3cur5/a/QMxo/01LuKsKtOIEWfcjDwbip07ahPmwq2GiO+xn8AgWye7HpVVjUftyX1a/+xuxHi1OVQ==",
   "success": true,
-  "projectFilePath": "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj",
+  "projectFilePath": "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

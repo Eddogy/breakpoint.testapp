@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Application\\BreakpointTestApp.Application.csproj": {}
+    "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Application\\BreakpointTestApp.Application.csproj": {}
   },
   "projects": {
-    "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Application\\BreakpointTestApp.Application.csproj": {
+    "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Application\\BreakpointTestApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Application\\BreakpointTestApp.Application.csproj",
+        "projectUniqueName": "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Application\\BreakpointTestApp.Application.csproj",
         "projectName": "BreakpointTestApp.Application",
-        "projectPath": "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Application\\BreakpointTestApp.Application.csproj",
+        "projectPath": "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Application\\BreakpointTestApp.Application.csproj",
         "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-        "outputPath": "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Application\\obj\\",
+        "outputPath": "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",
