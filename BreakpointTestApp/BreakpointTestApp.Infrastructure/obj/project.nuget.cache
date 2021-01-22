@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n8uGIT45pcZlpLhlqZ9K0gTODLRtMlqUjiaVub9jjqTJ7Zx8aaWJZKoYLTHTftMw55i1wvgaTOIn1XWxdnQLVA==",
+  "dgSpecHash": "u0AFYLPPh0ZSO3nLbDW2+s5/YxuftikPKrIirfr0GwY62qE6dZ0wbLj5Xao6iji+mUNDmNxgrbO2o3xZtXeGBg==",
   "success": true,
-  "projectFilePath": "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\BreakpointTestApp.Infrastructure.csproj",
+  "projectFilePath": "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\BreakpointTestApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darius\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Darius\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

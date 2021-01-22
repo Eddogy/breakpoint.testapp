@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj",
+      "projectUniqueName": "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj",
       "projectName": "BreakpointTestApp.Domain",
-      "projectPath": "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj",
+      "projectPath": "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj",
       "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-      "outputPath": "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\obj\\",
+      "outputPath": "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",
