@@ -6615,20 +6615,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Darius\\.nuget\\packages\\": {}
+    "C:\\Users\\amade\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\BreakpointTestApp.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\amade\\Desktop\\GitTestas\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\BreakpointTestApp.Infrastructure.csproj",
       "projectName": "BreakpointTestApp.Infrastructure",
-      "projectPath": "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\BreakpointTestApp.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-      "outputPath": "C:\\cs\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\amade\\Desktop\\GitTestas\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\BreakpointTestApp.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\amade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\amade\\Desktop\\GitTestas\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\amade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6639,7 +6644,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -6651,7 +6655,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Identity": {
             "target": "Package",
@@ -6691,7 +6694,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
