@@ -1,0 +1,12 @@
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\bin\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.deps.json
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\bin\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.runtimeconfig.json
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\bin\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.runtimeconfig.dev.json
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\bin\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.dll
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\bin\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.pdb
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.csprojAssemblyReference.cache
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.AssemblyInfoInputs.cache
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.AssemblyInfo.cs
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.dll
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.pdb
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.genruntimeconfig.cache

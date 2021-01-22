@@ -1,0 +1,9 @@
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Application\bin\Debug\netcoreapp3.1\BreakpointTestApp.Application.deps.json
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Application\bin\Debug\netcoreapp3.1\BreakpointTestApp.Application.dll
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Application\bin\Debug\netcoreapp3.1\BreakpointTestApp.Application.pdb
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Application\obj\Debug\netcoreapp3.1\BreakpointTestApp.Application.csprojAssemblyReference.cache
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Application\obj\Debug\netcoreapp3.1\BreakpointTestApp.Application.AssemblyInfoInputs.cache
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Application\obj\Debug\netcoreapp3.1\BreakpointTestApp.Application.AssemblyInfo.cs
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Application\obj\Debug\netcoreapp3.1\BreakpointTestApp.Application.csproj.CoreCompileInputs.cache
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Application\obj\Debug\netcoreapp3.1\BreakpointTestApp.Application.dll
+C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Application\obj\Debug\netcoreapp3.1\BreakpointTestApp.Application.pdb
