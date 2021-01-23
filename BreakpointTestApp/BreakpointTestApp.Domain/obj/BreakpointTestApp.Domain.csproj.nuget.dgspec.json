@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj": {}
+    "C:\\Users\\amade\\Desktop\\GitTestas\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj": {
+    "C:\\Users\\amade\\Desktop\\GitTestas\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\amade\\Desktop\\GitTestas\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj",
         "projectName": "BreakpointTestApp.Domain",
-        "projectPath": "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj",
-        "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-        "outputPath": "C:\\cs\\KITM\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\obj\\",
+        "projectPath": "C:\\Users\\amade\\Desktop\\GitTestas\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\BreakpointTestApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\amade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amade\\Desktop\\GitTestas\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\amade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

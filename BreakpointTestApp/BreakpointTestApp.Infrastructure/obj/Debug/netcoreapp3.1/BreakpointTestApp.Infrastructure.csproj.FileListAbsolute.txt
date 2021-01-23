@@ -10,3 +10,15 @@ C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure
 C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.dll
 C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.pdb
 C:\cs\KITM\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.genruntimeconfig.cache
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\bin\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.deps.json
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\bin\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.runtimeconfig.json
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\bin\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\bin\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.dll
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\bin\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.pdb
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.AssemblyInfo.cs
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.dll
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.pdb
+C:\Users\amade\Desktop\GitTestas\breakpoint.testapp\BreakpointTestApp\BreakpointTestApp.Infrastructure\obj\Debug\netcoreapp3.1\BreakpointTestApp.Infrastructure.genruntimeconfig.cache
