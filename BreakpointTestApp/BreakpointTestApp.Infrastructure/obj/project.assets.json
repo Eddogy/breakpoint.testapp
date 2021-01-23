@@ -6615,23 +6615,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\amade\\.nuget\\packages\\": {},
+    "C:\\Users\\erain\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amade\\Desktop\\GitTestas\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\BreakpointTestApp.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\erain\\Documents\\GitHub\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\BreakpointTestApp.Infrastructure.csproj",
       "projectName": "BreakpointTestApp.Infrastructure",
-      "projectPath": "C:\\Users\\amade\\Desktop\\GitTestas\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\BreakpointTestApp.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\amade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amade\\Desktop\\GitTestas\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\erain\\Documents\\GitHub\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\BreakpointTestApp.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\erain\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\erain\\Documents\\GitHub\\breakpoint.testapp\\BreakpointTestApp\\BreakpointTestApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\amade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\erain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -6696,7 +6696,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
